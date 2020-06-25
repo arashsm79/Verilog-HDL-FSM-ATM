@@ -6,6 +6,3 @@ Creately project for the Finite State Machine:
 
 https://app.creately.com/diagram/RHnw6gupn9B/view
 
-Run it online:
-
-https://www.edaplayground.com/x/4Wkq
