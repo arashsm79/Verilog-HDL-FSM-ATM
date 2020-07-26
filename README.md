@@ -11,7 +11,7 @@ Creately project for the Finite State Machine:
 
 https://app.creately.com/diagram/RHnw6gupn9B/view
 
- ![Alt text](/"ATM FSM.png"?raw=true "FSM")
+ ![Alt text](/ATM-FSM.png?raw=true "FSM")
 
 
 
